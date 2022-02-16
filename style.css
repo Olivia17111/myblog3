@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(221, 76, 127);
+    text-align:center;}
+#section{ 
+    
+    background-color: rgb(140, 140, 223);}
+
+
+
+#img{
+    margin-left :150px ;
+    width: 150px ;
+    margin-top: 100px;
+}
+
+
+
+
+.menu {
+    list-style: none;
+    font-family: Rubik position = absolute;
+    z-index: 10;
+    margin-left : 450px;
+}
+
+
+
+.links {
+    text-align: center;
+    font-family: Rubik;
+    float: left;
+    color:white;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    align-content: center;
+    
+}
+
+
